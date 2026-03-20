@@ -11,12 +11,22 @@
   
   ### 💻 Junior Developer
   
- <a href="https://ccohene13-cmd.github.io/paginita/">
-
+  <!-- BOTÓN/ENLACE A MI PÁGINA WEB -->
+  <a href="https://ccohene13-cmd.github.io/paginita/">
+    <img src="https://img.shields.io/badge/MI_PÁGINA_WEB-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  
+  <br><br>
+  
+  <!-- OPCIONAL: Enlace de texto simple -->
+  <a href="https://ccohene13-cmd.github.io/paginita/">
+    <strong>🌐 Visita mi página web →</strong>
+  </a>
 
   ---
   
 </div>
+
 ## 🚀 Tecnologías que uso
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,4 +37,3 @@
 ![ccohene13-cmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccohene13-cmd&show_icons=true&theme=tokyonight)
 
 ![Snake animation](https://raw.githubusercontent.com/ccohene13-cmd/ccohene13-cmd/output/github-contribution-grid-snake.svg)
-
