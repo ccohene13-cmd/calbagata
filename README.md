@@ -11,16 +11,10 @@
   
   ### 💻 Junior Developer
   
-  <!-- BOTÓN/ENLACE A MI PÁGINA WEB -->
-  <a href="https://ccohene13-cmd.github.io/paginita/">
-    <img src="https://img.shields.io/badge/MI_PÁGINA_WEB-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  
   <br><br>
   
-  <!-- OPCIONAL: Enlace de texto simple -->
   <a href="https://ccohene13-cmd.github.io/paginita/">
-    <strong>🌐 Visita mi página web →</strong>
+    <strong>¡Visita mi página web! </strong>
   </a>
 
   ---
