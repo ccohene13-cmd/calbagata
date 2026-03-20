@@ -2,7 +2,7 @@
 
 ### 👋 ¡Hola! Soy ccohene13-cmd
 
-💻 **Junior Developer** aprendiendo cada día
+💻 **Junior Developer** Y solo eso
 
 ## 🚀 Tecnologías que uso
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
