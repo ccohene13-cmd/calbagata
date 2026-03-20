@@ -3,8 +3,8 @@
  ¡Bienvenido a mi perfil! 
   
   <!-- GIF DE ADO (LO PRIMERO) -->
-  <img src="https://media.tenor.com/pRvX8J_aR-sAAAAC/ado-ushite-uso.gif" width="300">
-  <div class="tenor-gif-embed" data-postid="7865961750482870059" data-share-method="host" data-aspect-ratio="0.708835" data-width="100%"><a href="https://tenor.com/view/ado-usseewa-naima-adosolos-explosion-gif-7865961750482870059">Ado Usseewa GIF</a>from <a href="https://tenor.com/search/ado-gifs">Ado GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://media1.tenor.com/m/-I8LVTImGiIAAAAC/ado-usshi.gif" width="400">
+  
   <!-- TU PRESENTACIÓN -->
   ## ✨ Hola, soy calbagata ✨
   
@@ -25,4 +25,3 @@
 
 ![Snake animation](https://raw.githubusercontent.com/ccohene13-cmd/ccohene13-cmd/output/github-contribution-grid-snake.svg)
 
-![Snake animation](https://raw.githubusercontent.com/ccohene13-cmd/calbagata/output/github-contribution-grid-snake.svg)
