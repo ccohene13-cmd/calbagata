@@ -3,14 +3,16 @@
  ¡Bienvenido a mi perfil! 
   
 
-  <img src="https://media1.tenor.com/m/-I8LVTImGiIAAAAC/ado-usshi.gif" width="400">
+ <img src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif" width="400">
+
   
   <!-- TU PRESENTACIÓN -->
   ## ✨ Hola, soy calbagata ✨
   
   ### 💻 Junior Developer
   
- <img src="https://media1.tenor.com/m/-I8LVTImGiIAAAAC/ado-usshi.gif" width="400">
+<img src="https://media1.tenor.com/m/bSmCiVJXXysAAAAd/ado-usseewa.gif" width="400">
+
   ---
   
 </div>
